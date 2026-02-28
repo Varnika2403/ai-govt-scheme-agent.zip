@@ -20,8 +20,4 @@ OpenAI API
 
 JSON Dataset
 
-▶️ How to Run
-git clone https://github.com/your-username/AI-Govt-Scheme-Agent.git
-cd AI-Govt-Scheme-Agent
-pip install -r requirements.txt
-streamlit run app.py
+
